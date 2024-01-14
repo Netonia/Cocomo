@@ -5,6 +5,11 @@ VisualStudioVersion = 17.8.34205.153
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cocomo", "src\Cocomo\Cocomo.csproj", "{44451B12-1CA0-49C6-9C28-1BAA7A1D5651}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{334EB380-559F-4F1F-BA54-8DD61D2C23A5}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
