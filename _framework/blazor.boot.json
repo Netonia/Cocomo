@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Cocomo",
   "resources": {
-    "hash": "sha256-DqU5OlUayHCUFOWaXzS685qVeKkgxbYFop3fqsgq8Gk=",
+    "hash": "sha256-0IUhoq8JKHKE4MVsXcVvXewv+XcbUzCyVdnPJ2w/EzM=",
     "jsModuleNative": {
       "dotnet.native.8.0.1.ahpp78valh.js": "sha256-SGOlISx+3G4kkvpC9Uq3qoPGsnjxGmW61QBev0lyI5U="
     },
@@ -17,7 +17,7 @@
       "icudt_no_CJK.dat": "sha256-L7sV7NEYP37/Qr2FPCePo5cJqRgTXRwGHuwF5Q+0Nfs="
     },
     "assembly": {
-      "Cocomo.wasm": "sha256-+VwV2j2qmqSjfyZuuJuQhrkgAcrOX9MtNDm2VjZUc2s=",
+      "Cocomo.wasm": "sha256-P9BR6sQC/+jUa+XwSEsc9vfNUg7Uz3hnF7Z07gXxJh4=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-HbtTz7tHi6f5g3WMfJFnXZChZj2DYpqWas3pr1Usy5U=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-/WQ0mvcxbTm+mnz4DkNp21R23LklKoTLO7Xo3kYGQp8=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-6B1m282YhKtv8swo3viBCZzGF3c0i/hED6I0ZP8L4qc=",
